@@ -1,0 +1,17 @@
+/*
+Theme Name: CarFixPro
+Theme URI: https://example.com/carfixpro
+Author: Your Name
+Author URI: https://yourwebsite.com
+Description: A professional car repair and auto service theme for WordPress.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: carfixpro
+Tags: custom-background, custom-logo, custom-menu, featured-images, responsive-layout
+*/
+
+.why-choose-us i {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
